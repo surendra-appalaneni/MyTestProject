@@ -46,7 +46,7 @@
         </dependency>
 
         <!-- Bean Factory and JavaBeans utilities (depends on spring-core) Define
-this if you use Spring Bean APIs (org.springframework.beans.*) -->
+                this if you use Spring Bean APIs (org.springframework.beans.*) -->
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-beans</artifactId>
